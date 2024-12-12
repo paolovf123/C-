@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\C#\\ObejtosC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75B60F01-AFE8-4673-A685-581342667E4A}|ObejtosC#\\ObejtosC#.csproj|c:\\users\\user\\documents\\c#\\obejtosc#\\obejtosc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B60F01-AFE8-4673-A685-581342667E4A}|ObejtosC#\\ObejtosC#.csproj|solutionrelative:obejtosc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B60F01-AFE8-4673-A685-581342667E4A}|ObejtosC#\\ObejtosC#.csproj|c:\\users\\user\\documents\\c#\\obejtosc#\\obejtosc#\\models\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B60F01-AFE8-4673-A685-581342667E4A}|ObejtosC#\\ObejtosC#.csproj|solutionrelative:obejtosc#\\models\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B60F01-AFE8-4673-A685-581342667E4A}|ObejtosC#\\ObejtosC#.csproj|c:\\users\\user\\documents\\c#\\obejtosc#\\obejtosc#\\imprimirinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B60F01-AFE8-4673-A685-581342667E4A}|ObejtosC#\\ObejtosC#.csproj|solutionrelative:obejtosc#\\imprimirinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B60F01-AFE8-4673-A685-581342667E4A}|ObejtosC#\\ObejtosC#.csproj|c:\\users\\user\\documents\\c#\\obejtosc#\\obejtosc#\\models\\superheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B60F01-AFE8-4673-A685-581342667E4A}|ObejtosC#\\ObejtosC#.csproj|solutionrelative:obejtosc#\\models\\superheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B60F01-AFE8-4673-A685-581342667E4A}|ObejtosC#\\ObejtosC#.csproj|c:\\users\\user\\documents\\c#\\obejtosc#\\obejtosc#\\interfaces\\isuperheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B60F01-AFE8-4673-A685-581342667E4A}|ObejtosC#\\ObejtosC#.csproj|solutionrelative:obejtosc#\\interfaces\\isuperheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B60F01-AFE8-4673-A685-581342667E4A}|ObejtosC#\\ObejtosC#.csproj|c:\\users\\user\\documents\\c#\\obejtosc#\\obejtosc#\\models\\heroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B60F01-AFE8-4673-A685-581342667E4A}|ObejtosC#\\ObejtosC#.csproj|solutionrelative:obejtosc#\\models\\heroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B60F01-AFE8-4673-A685-581342667E4A}|ObejtosC#\\ObejtosC#.csproj|c:\\users\\user\\documents\\c#\\obejtosc#\\obejtosc#\\models\\antiheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B60F01-AFE8-4673-A685-581342667E4A}|ObejtosC#\\ObejtosC#.csproj|solutionrelative:obejtosc#\\models\\antiheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImprimirInfo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\C#\\ObejtosC#\\ObejtosC#\\ImprimirInfo.cs",
+              "RelativeDocumentMoniker": "ObejtosC#\\ImprimirInfo.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\C#\\ObejtosC#\\ObejtosC#\\ImprimirInfo.cs",
+              "RelativeToolTip": "ObejtosC#\\ImprimirInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:58:45.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AntiHeroe.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\C#\\ObejtosC#\\ObejtosC#\\Models\\AntiHeroe.cs",
+              "RelativeDocumentMoniker": "ObejtosC#\\Models\\AntiHeroe.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\C#\\ObejtosC#\\ObejtosC#\\Models\\AntiHeroe.cs",
+              "RelativeToolTip": "ObejtosC#\\Models\\AntiHeroe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:14:55.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuperPoder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\C#\\ObejtosC#\\ObejtosC#\\Models\\SuperPoder.cs",
+              "RelativeDocumentMoniker": "ObejtosC#\\Models\\SuperPoder.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\C#\\ObejtosC#\\ObejtosC#\\Models\\SuperPoder.cs",
+              "RelativeToolTip": "ObejtosC#\\Models\\SuperPoder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:38:14.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuperHeroe.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\C#\\ObejtosC#\\ObejtosC#\\Models\\SuperHeroe.cs",
+              "RelativeDocumentMoniker": "ObejtosC#\\Models\\SuperHeroe.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\C#\\ObejtosC#\\ObejtosC#\\Models\\SuperHeroe.cs",
+              "RelativeToolTip": "ObejtosC#\\Models\\SuperHeroe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:16:13.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISuperHeroe.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\C#\\ObejtosC#\\ObejtosC#\\Interfaces\\ISuperHeroe.cs",
+              "RelativeDocumentMoniker": "ObejtosC#\\Interfaces\\ISuperHeroe.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\C#\\ObejtosC#\\ObejtosC#\\Interfaces\\ISuperHeroe.cs",
+              "RelativeToolTip": "ObejtosC#\\Interfaces\\ISuperHeroe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:53:45.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Heroe.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\C#\\ObejtosC#\\ObejtosC#\\Models\\Heroe.cs",
+              "RelativeDocumentMoniker": "ObejtosC#\\Models\\Heroe.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\C#\\ObejtosC#\\ObejtosC#\\Models\\Heroe.cs",
+              "RelativeToolTip": "ObejtosC#\\Models\\Heroe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:31:02.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\C#\\ObejtosC#\\ObejtosC#\\Program.cs",
+              "RelativeDocumentMoniker": "ObejtosC#\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\C#\\ObejtosC#\\ObejtosC#\\Program.cs",
+              "RelativeToolTip": "ObejtosC#\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:08:56.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

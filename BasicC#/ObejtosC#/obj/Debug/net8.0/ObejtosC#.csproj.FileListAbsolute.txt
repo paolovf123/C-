@@ -1,0 +1,14 @@
+C:\Users\User\Documents\C#\ObejtosC#\ObejtosC#\obj\Debug\net8.0\ObejtosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C#\ObejtosC#\ObejtosC#\obj\Debug\net8.0\ObejtosC#.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#\ObejtosC#\ObejtosC#\obj\Debug\net8.0\ObejtosC#.AssemblyInfo.cs
+C:\Users\User\Documents\C#\ObejtosC#\ObejtosC#\obj\Debug\net8.0\ObejtosC#.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\ObejtosC#\ObejtosC#\bin\Debug\net8.0\ObejtosC#.exe
+C:\Users\User\Documents\C#\ObejtosC#\ObejtosC#\bin\Debug\net8.0\ObejtosC#.deps.json
+C:\Users\User\Documents\C#\ObejtosC#\ObejtosC#\bin\Debug\net8.0\ObejtosC#.runtimeconfig.json
+C:\Users\User\Documents\C#\ObejtosC#\ObejtosC#\bin\Debug\net8.0\ObejtosC#.dll
+C:\Users\User\Documents\C#\ObejtosC#\ObejtosC#\bin\Debug\net8.0\ObejtosC#.pdb
+C:\Users\User\Documents\C#\ObejtosC#\ObejtosC#\obj\Debug\net8.0\ObejtosC#.dll
+C:\Users\User\Documents\C#\ObejtosC#\ObejtosC#\obj\Debug\net8.0\refint\ObejtosC#.dll
+C:\Users\User\Documents\C#\ObejtosC#\ObejtosC#\obj\Debug\net8.0\ObejtosC#.pdb
+C:\Users\User\Documents\C#\ObejtosC#\ObejtosC#\obj\Debug\net8.0\ObejtosC#.genruntimeconfig.cache
+C:\Users\User\Documents\C#\ObejtosC#\ObejtosC#\obj\Debug\net8.0\ref\ObejtosC#.dll
