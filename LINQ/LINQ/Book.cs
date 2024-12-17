@@ -16,6 +16,6 @@ using System.Threading.Tasks;
         public DateTime PublishedDate { get; set; }
 
         public string[] Authors { get; set; }
-        public string[] Categorys { get; set; }
+        public string[] Categories { get; set; }
     }
 
