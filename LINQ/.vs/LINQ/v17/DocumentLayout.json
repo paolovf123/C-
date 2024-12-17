@@ -29,6 +29,20 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\C#\\LINQ\\LINQ\\Book.cs",
+              "RelativeDocumentMoniker": "LINQ\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\C#\\LINQ\\LINQ\\Book.cs",
+              "RelativeToolTip": "LINQ\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T02:58:51.217Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
@@ -40,22 +54,9 @@
               "RelativeDocumentMoniker": "LINQ\\LinqQueries.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\C#\\LINQ\\LINQ\\LinqQueries.cs",
               "RelativeToolTip": "LINQ\\LinqQueries.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAwwHMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T03:04:21.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\C#\\LINQ\\LINQ\\Book.cs",
-              "RelativeDocumentMoniker": "LINQ\\Book.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\C#\\LINQ\\LINQ\\Book.cs",
-              "RelativeToolTip": "LINQ\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T02:58:51.217Z",
               "EditorCaption": ""
             },
             {
@@ -66,7 +67,7 @@
               "RelativeDocumentMoniker": "LINQ\\books.json",
               "ToolTip": "C:\\Users\\User\\Documents\\C#\\LINQ\\LINQ\\books.json",
               "RelativeToolTip": "LINQ\\books.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-15T02:25:20.29Z",
               "EditorCaption": ""
@@ -79,7 +80,7 @@
               "RelativeDocumentMoniker": "LINQ\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\C#\\LINQ\\LINQ\\Program.cs",
               "RelativeToolTip": "LINQ\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T02:09:48.672Z",
               "EditorCaption": ""
